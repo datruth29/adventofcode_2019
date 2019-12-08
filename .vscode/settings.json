@@ -1,0 +1,5 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "C:\\Users\\Adam Collado\\.virtualenvs\\adventofcode_2019-KL4QucyU\\Scripts\\python.exe"
+}
